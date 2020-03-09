@@ -30,9 +30,12 @@ I could try to upload the Unity version that I built, but Github could not conta
 ------------------------------
 Authors
 -----------------------------
-Hoang Vo (coder): hoangvod@gmail.com
-Colby Lewis
-Tony Nguyen
-Josue Cerritos
-Kent Nguyen
+*Hoang Vo (coder): hoangvod@gmail.com
+*Colby Lewis
+*Tony Nguyen
+*Josue Cerritos
+*Kent Nguyen
 
+**resource**: 
+  *[Unity] (https://www.udemy.com/course/arkit-and-unity-build-a-realistic-drivable-car-in-ar/learn/lecture/8736738#overview)
+  *[Swift] (https://www.udemy.com/course/ios-12-developer-course/learn/lecture/10863562#overview)
