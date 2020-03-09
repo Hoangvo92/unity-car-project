@@ -15,8 +15,24 @@ I inteviewed some local car vendors to know their issues in business.
        -The complication of building AR object from scratch in ARKIT and xcode
        -the requirements of technology: to run the AR application, there is a need of Iphone 6s at least
  After so many failures, I switched to using Unity to build an AR object in console of Unity
+ 
+ 
  ----------------------------------------
-
-Install the app on phone
+Usage
 ----------------------------------------------
+Download the repos and run the project on Xcode. From xcode, you can install the app on iphones that allows AR application. 
+
+-----------------------------------
+Notes
+---------------------------------------
+I could try to upload the Unity version that I built, but Github could not contain such a massive size, and it keeps crashing. THis is the Xcode version which was converted from the Unity version. During the process of uploading to github, some files could be lost. If peole want to check on the Unity version to convert to android version and so on, please do not mind contacting me.
+
+------------------------------
+Authors
+-----------------------------
+Hoang Vo (coder): hoangvod@gmail.com
+Colby Lewis
+Tony Nguyen
+Josue Cerritos
+Kent Nguyen
 
